@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Linux 4.19.310
+kernel.string=Linux 4.19.311
 kernel.compiler=AOSP clang
 kernel.made=HALt
 message.word=
